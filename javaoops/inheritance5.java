@@ -47,3 +47,11 @@ public class inheritance5 {
 	}
 
 }
+
+
+//output
+demo1 zero param constructor
+demo 2 param constructor
+x 4 y 5
+a 0 b 0
+
